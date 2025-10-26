@@ -1,0 +1,5 @@
+grep -e wordname -e wordname filename
+sudo chown -R ownnername directoryname
+sed -n '2p' filename | wc -c
+grep -l wordname filename
+du
